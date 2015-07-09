@@ -11,4 +11,10 @@ For iPhone only
 
 
 
-![udspj](https://github.com/udspj/2DmikuARCamera/blob/master/readmeimg/IMG_0464.PNG?raw=true)
+![udspj](https://github.com/udspj/customDrawableMapView/blob/master/readmeimg/IMG_0465.PNG?raw=true)
+
+![udspj](https://github.com/udspj/customDrawableMapView/blob/master/readmeimg/IMG_0466.PNG?raw=true)
+
+![udspj](https://github.com/udspj/customDrawableMapView/blob/master/readmeimg/IMG_0467.PNG?raw=true)
+
+![udspj](https://github.com/udspj/customDrawableMapView/blob/master/readmeimg/IMG_0468.PNG?raw=true)
